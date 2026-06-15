@@ -1,0 +1,6946 @@
+{
+  "schema_version": 1,
+  "currency": "KRW",
+  "unit": "won",
+  "generated_at": "2026-06-15T02:09:52.319715+00:00",
+  "source_directory": "data/source-documents/financial-statements",
+  "extraction_method": "pymupdf_embedded_text",
+  "documents": [
+    {
+      "fiscal_year": 2018,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 201812.pdf",
+        "issue_number": "1227-077-4596-463",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2018.01.01",
+        "business_year_end": "2018.12.31",
+        "attachments": [
+          "표준대차대조표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2019.03.27",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509614888",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4228"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 201812.txt",
+        "balance_sheet_row_count": 41,
+        "income_statement_row_count": 45
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 285995864,
+          "amount_text": "285,995,864",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 278500058,
+          "amount_text": "278,500,058",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 248552780,
+          "amount_text": "248,552,780",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 29947278,
+          "amount_text": "29,947,278",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 7495806,
+          "amount_text": "7,495,806",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "2.선급비용",
+          "code": "069",
+          "amount": 1750000,
+          "amount_text": "1,750,000",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 5745806,
+          "amount_text": "5,745,806",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 874280,
+          "amount_text": "874,280",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.부가가치세대급금",
+          "code": "073",
+          "amount": 4871526,
+          "amount_text": "4,871,526",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 178828119,
+          "amount_text": "178,828,119",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82002500,
+          "amount_text": "82,002,500",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82002500,
+          "amount_text": "82,002,500",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82002500,
+          "amount_text": "82,002,500",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 11420521,
+          "amount_text": "11,420,521",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 20887624,
+          "amount_text": "20,887,624",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 9467103,
+          "amount_text": "9,467,103",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 55305098,
+          "amount_text": "55,305,098",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 55305098,
+          "amount_text": "55,305,098",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 30100000,
+          "amount_text": "30,100,000",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 30100000,
+          "amount_text": "30,100,000",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 30100000,
+          "amount_text": "30,100,000",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 464823983,
+          "amount_text": "464,823,983",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 107176996,
+          "amount_text": "107,176,996",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 49506246,
+          "amount_text": "49,506,246",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 49506246,
+          "amount_text": "49,506,246",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 7670750,
+          "amount_text": "7,670,750",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 7670750,
+          "amount_text": "7,670,750",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "정부출연금",
+          "code": "279",
+          "amount": 50000000,
+          "amount_text": "50,000,000",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 107176996,
+          "amount_text": "107,176,996",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 113513000,
+          "amount_text": "113,513,000",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 113513000,
+          "amount_text": "113,513,000",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 576468000,
+          "amount_text": "576,468,000",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 576468000,
+          "amount_text": "576,468,000",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -332334013,
+          "amount_text": "-332,334,013",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -332334013,
+          "amount_text": "-332,334,013",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 357646987,
+          "amount_text": "357,646,987",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 464823983,
+          "amount_text": "464,823,983",
+          "page": 2,
+          "row_index": 40
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 28833096,
+          "amount_text": "28,833,096",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 28833096,
+          "amount_text": "28,833,096",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.라이선스매출외",
+          "code": "025",
+          "amount": 28833096,
+          "amount_text": "28,833,096",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 28833096,
+          "amount_text": "28,833,096",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 274160259,
+          "amount_text": "274,160,259",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 101455989,
+          "amount_text": "101,455,989",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 101455989,
+          "amount_text": "101,455,989",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 7026849,
+          "amount_text": "7,026,849",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 7026849,
+          "amount_text": "7,026,849",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 24565337,
+          "amount_text": "24,565,337",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 6890877,
+          "amount_text": "6,890,877",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 26969122,
+          "amount_text": "26,969,122",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 26400000,
+          "amount_text": "26,400,000",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 569122,
+          "amount_text": "569,122",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 8438349,
+          "amount_text": "8,438,349",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 177700,
+          "amount_text": "177,700",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 2304957,
+          "amount_text": "2,304,957",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 1600000,
+          "amount_text": "1,600,000",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 36463629,
+          "amount_text": "36,463,629",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 11793607,
+          "amount_text": "11,793,607",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 24670022,
+          "amount_text": "24,670,022",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 22607784,
+          "amount_text": "22,607,784",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 912142,
+          "amount_text": "912,142",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "24.운반비",
+          "code": "110",
+          "amount": 283000,
+          "amount_text": "283,000",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "26.건물․시설관리비(수선비제외)",
+          "code": "112",
+          "amount": 548820,
+          "amount_text": "548,820",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 487863,
+          "amount_text": "487,863",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 1519462,
+          "amount_text": "1,519,462",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 4355006,
+          "amount_text": "4,355,006",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "31.교육훈련비",
+          "code": "117",
+          "amount": 9448851,
+          "amount_text": "9,448,851",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 1250000,
+          "amount_text": "1,250,000",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 5029502,
+          "amount_text": "5,029,502",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 5029502,
+          "amount_text": "5,029,502",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "36.기타사회보험료",
+          "code": "124",
+          "amount": 11825020,
+          "amount_text": "11,825,020",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -245327163,
+          "amount_text": "-245,327,163",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 43283130,
+          "amount_text": "43,283,130",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 5716756,
+          "amount_text": "5,716,756",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 36452670,
+          "amount_text": "36,452,670",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 1113704,
+          "amount_text": "1,113,704",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 327622,
+          "amount_text": "327,622",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 327121,
+          "amount_text": "327,121",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 501,
+          "amount_text": "501",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -202371655,
+          "amount_text": "-202,371,655",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -202371655,
+          "amount_text": "-202,371,655",
+          "page": 3,
+          "row_index": 44
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 285995864,
+          "cash_and_cash_equivalents": 248552780,
+          "total_assets": 464823983,
+          "current_liabilities": 107176996,
+          "noncurrent_liabilities": 0,
+          "total_liabilities": 107176996,
+          "capital_stock": 113513000,
+          "capital_surplus": 576468000,
+          "retained_earnings": -332334013,
+          "total_equity": 357646987,
+          "total_liabilities_and_equity": 464823983
+        },
+        "income_statement": {
+          "revenue": 28833096,
+          "cost_of_sales": 0,
+          "gross_profit": 28833096,
+          "selling_general_admin_expenses": 274160259,
+          "operating_income": -245327163,
+          "non_operating_income": 43283130,
+          "non_operating_expenses": 327622,
+          "pretax_income": -202371655,
+          "income_tax_expense": 0,
+          "net_income": -202371655
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 464823983,
+          "expected": 464823983,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 464823983,
+          "expected": 464823983,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 28833096,
+          "expected": 28833096,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -245327163,
+          "expected": -245327163,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -202371655,
+          "expected": -202371655,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2019,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 201912.pdf",
+        "issue_number": "6527-184-4910-521",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2019.01.01",
+        "business_year_end": "2019.12.31",
+        "attachments": [
+          "표준대차대조표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2020.05.04",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509614434",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4225"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 201912.txt",
+        "balance_sheet_row_count": 46,
+        "income_statement_row_count": 51
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 1008101334,
+          "amount_text": "1,008,101,334",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 1001621934,
+          "amount_text": "1,001,621,934",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 967904679,
+          "amount_text": "967,904,679",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 33717255,
+          "amount_text": "33,717,255",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 6479400,
+          "amount_text": "6,479,400",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 6479400,
+          "amount_text": "6,479,400",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 98490,
+          "amount_text": "98,490",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "나.부가가치세대급금",
+          "code": "073",
+          "amount": 6380910,
+          "amount_text": "6,380,910",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 608338057,
+          "amount_text": "608,338,057",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 60159832,
+          "amount_text": "60,159,832",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 55600000,
+          "amount_text": "55,600,000",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 4179266,
+          "amount_text": "4,179,266",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 19448332,
+          "amount_text": "19,448,332",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 10709234,
+          "amount_text": "10,709,234",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 405357885,
+          "amount_text": "405,357,885",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 405357885,
+          "amount_text": "405,357,885",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 60700000,
+          "amount_text": "60,700,000",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 60700000,
+          "amount_text": "60,700,000",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 60000000,
+          "amount_text": "60,000,000",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "나.기타보증금",
+          "code": "220",
+          "amount": 700000,
+          "amount_text": "700,000",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 1616439391,
+          "amount_text": "1,616,439,391",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 114712000,
+          "amount_text": "114,712,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "2.단기차입금",
+          "code": "234",
+          "amount": 4,
+          "amount_text": "4",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "다.기타단기차입금",
+          "code": "237",
+          "amount": 4,
+          "amount_text": "4",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 54603696,
+          "amount_text": "54,603,696",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 54603696,
+          "amount_text": "54,603,696",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 10108300,
+          "amount_text": "10,108,300",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 10108300,
+          "amount_text": "10,108,300",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "정부출연금",
+          "code": "279",
+          "amount": 50000000,
+          "amount_text": "50,000,000",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 114712000,
+          "amount_text": "114,712,000",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 133517000,
+          "amount_text": "133,517,000",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 90000000,
+          "amount_text": "90,000,000",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 43517000,
+          "amount_text": "43,517,000",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 2056764000,
+          "amount_text": "2,056,764,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 2056764000,
+          "amount_text": "2,056,764,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -688553609,
+          "amount_text": "-688,553,609",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -688553609,
+          "amount_text": "-688,553,609",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 1501727391,
+          "amount_text": "1,501,727,391",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 1616439391,
+          "amount_text": "1,616,439,391",
+          "page": 2,
+          "row_index": 45
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 74822139,
+          "amount_text": "74,822,139",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 74822139,
+          "amount_text": "74,822,139",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.라이선스매출외",
+          "code": "025",
+          "amount": 74822139,
+          "amount_text": "74,822,139",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 74822139,
+          "amount_text": "74,822,139",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 486617010,
+          "amount_text": "486,617,010",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 85358018,
+          "amount_text": "85,358,018",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 85358018,
+          "amount_text": "85,358,018",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 58035819,
+          "amount_text": "58,035,819",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 58035819,
+          "amount_text": "58,035,819",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "3.보험료",
+          "code": "078",
+          "amount": 80570,
+          "amount_text": "80,570",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 31742287,
+          "amount_text": "31,742,287",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 19453396,
+          "amount_text": "19,453,396",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 39269998,
+          "amount_text": "39,269,998",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 37696500,
+          "amount_text": "37,696,500",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1573498,
+          "amount_text": "1,573,498",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "7.접대비",
+          "code": "085",
+          "amount": 324800,
+          "amount_text": "324,800",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 8170657,
+          "amount_text": "8,170,657",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 20469115,
+          "amount_text": "20,469,115",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 20469115,
+          "amount_text": "20,469,115",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 6781040,
+          "amount_text": "6,781,040",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 18209362,
+          "amount_text": "18,209,362",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 3750000,
+          "amount_text": "3,750,000",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 36957690,
+          "amount_text": "36,957,690",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 17860372,
+          "amount_text": "17,860,372",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 19097318,
+          "amount_text": "19,097,318",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 45412165,
+          "amount_text": "45,412,165",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 1536981,
+          "amount_text": "1,536,981",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "24.운반비",
+          "code": "110",
+          "amount": 565728,
+          "amount_text": "565,728",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "26.건물․시설관리비(수선비제외)",
+          "code": "112",
+          "amount": 2189500,
+          "amount_text": "2,189,500",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 1691695,
+          "amount_text": "1,691,695",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 1514409,
+          "amount_text": "1,514,409",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 1652044,
+          "amount_text": "1,652,044",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "31.교육훈련비",
+          "code": "117",
+          "amount": 3967665,
+          "amount_text": "3,967,665",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 39953861,
+          "amount_text": "39,953,861",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 6698000,
+          "amount_text": "6,698,000",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 6698000,
+          "amount_text": "6,698,000",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "36.기타사회보험료",
+          "code": "124",
+          "amount": 52832210,
+          "amount_text": "52,832,210",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -411794871,
+          "amount_text": "-411,794,871",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 60105625,
+          "amount_text": "60,105,625",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 677116,
+          "amount_text": "677,116",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 58133351,
+          "amount_text": "58,133,351",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 1295158,
+          "amount_text": "1,295,158",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 4530350,
+          "amount_text": "4,530,350",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 50581,
+          "amount_text": "50,581",
+          "page": 3,
+          "row_index": 44
+        },
+        {
+          "account_name": "13.유형자산처분손실",
+          "code": "200",
+          "amount": 4479760,
+          "amount_text": "4,479,760",
+          "page": 3,
+          "row_index": 45
+        },
+        {
+          "account_name": "라.기타유형자산처분손실",
+          "code": "204",
+          "amount": 4479760,
+          "amount_text": "4,479,760",
+          "page": 3,
+          "row_index": 46
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 9,
+          "amount_text": "9",
+          "page": 3,
+          "row_index": 47
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -356219596,
+          "amount_text": "-356,219,596",
+          "page": 3,
+          "row_index": 48
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 49
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -356219596,
+          "amount_text": "-356,219,596",
+          "page": 3,
+          "row_index": 50
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 1008101334,
+          "cash_and_cash_equivalents": 967904679,
+          "total_assets": 1616439391,
+          "current_liabilities": 114712000,
+          "noncurrent_liabilities": 0,
+          "total_liabilities": 114712000,
+          "capital_stock": 133517000,
+          "capital_surplus": 2056764000,
+          "retained_earnings": -688553609,
+          "total_equity": 1501727391,
+          "total_liabilities_and_equity": 1616439391
+        },
+        "income_statement": {
+          "revenue": 74822139,
+          "cost_of_sales": 0,
+          "gross_profit": 74822139,
+          "selling_general_admin_expenses": 486617010,
+          "operating_income": -411794871,
+          "non_operating_income": 60105625,
+          "non_operating_expenses": 4530350,
+          "pretax_income": -356219596,
+          "income_tax_expense": 0,
+          "net_income": -356219596
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 1616439391,
+          "expected": 1616439391,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 1616439391,
+          "expected": 1616439391,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 74822139,
+          "expected": 74822139,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -411794871,
+          "expected": -411794871,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -356219596,
+          "expected": -356219596,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2020,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202012.pdf",
+        "issue_number": "0486-807-7758-293",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2020.01.01",
+        "business_year_end": "2020.12.31",
+        "attachments": [
+          "표준대차대조표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2021.03.28",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509613974",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4228"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202012.txt",
+        "balance_sheet_row_count": 47,
+        "income_statement_row_count": 48
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 1609007859,
+          "amount_text": "1,609,007,859",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 1608905689,
+          "amount_text": "1,608,905,689",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 1559642746,
+          "amount_text": "1,559,642,746",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 51000,
+          "amount_text": "51,000",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 51000,
+          "amount_text": "51,000",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 49211943,
+          "amount_text": "49,211,943",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 102170,
+          "amount_text": "102,170",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 102170,
+          "amount_text": "102,170",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 102170,
+          "amount_text": "102,170",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 657698291,
+          "amount_text": "657,698,291",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 64404591,
+          "amount_text": "64,404,591",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 55600000,
+          "amount_text": "55,600,000",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 27370017,
+          "amount_text": "27,370,017",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 63217936,
+          "amount_text": "63,217,936",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 27043328,
+          "amount_text": "27,043,328",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 451173360,
+          "amount_text": "451,173,360",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 451173360,
+          "amount_text": "451,173,360",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 60000000,
+          "amount_text": "60,000,000",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 60000000,
+          "amount_text": "60,000,000",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 60000000,
+          "amount_text": "60,000,000",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 2266706150,
+          "amount_text": "2,266,706,150",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 140357286,
+          "amount_text": "140,357,286",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 69210572,
+          "amount_text": "69,210,572",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 69210572,
+          "amount_text": "69,210,572",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 21146714,
+          "amount_text": "21,146,714",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 8156064,
+          "amount_text": "8,156,064",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 12990650,
+          "amount_text": "12,990,650",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "정부출연금",
+          "code": "279",
+          "amount": 50000000,
+          "amount_text": "50,000,000",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 240000000,
+          "amount_text": "240,000,000",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "3.장기차입금",
+          "code": "289",
+          "amount": 240000000,
+          "amount_text": "240,000,000",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "다.기타장기차입금",
+          "code": "294",
+          "amount": 240000000,
+          "amount_text": "240,000,000",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 380357286,
+          "amount_text": "380,357,286",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 141317000,
+          "amount_text": "141,317,000",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 90000000,
+          "amount_text": "90,000,000",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 51317000,
+          "amount_text": "51,317,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 3047364000,
+          "amount_text": "3,047,364,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 3047364000,
+          "amount_text": "3,047,364,000",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -1302332136,
+          "amount_text": "-1,302,332,136",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -1302332136,
+          "amount_text": "-1,302,332,136",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 1886348864,
+          "amount_text": "1,886,348,864",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 2266706150,
+          "amount_text": "2,266,706,150",
+          "page": 2,
+          "row_index": 46
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 418169575,
+          "amount_text": "418,169,575",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 418169575,
+          "amount_text": "418,169,575",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출외",
+          "code": "025",
+          "amount": 418169575,
+          "amount_text": "418,169,575",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 418169575,
+          "amount_text": "418,169,575",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 1305419231,
+          "amount_text": "1,305,419,231",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 679115652,
+          "amount_text": "679,115,652",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 679115652,
+          "amount_text": "679,115,652",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 60675954,
+          "amount_text": "60,675,954",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 60675954,
+          "amount_text": "60,675,954",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "3.보험료",
+          "code": "078",
+          "amount": 32830,
+          "amount_text": "32,830",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 32478460,
+          "amount_text": "32,478,460",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 6932752,
+          "amount_text": "6,932,752",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 61533862,
+          "amount_text": "61,533,862",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 60000000,
+          "amount_text": "60,000,000",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1533862,
+          "amount_text": "1,533,862",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 39524845,
+          "amount_text": "39,524,845",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 103156102,
+          "amount_text": "103,156,102",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 103156102,
+          "amount_text": "103,156,102",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 2655160,
+          "amount_text": "2,655,160",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 38659942,
+          "amount_text": "38,659,942",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 2760000,
+          "amount_text": "2,760,000",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 158965916,
+          "amount_text": "158,965,916",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 24106914,
+          "amount_text": "24,106,914",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 134859002,
+          "amount_text": "134,859,002",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 2879786,
+          "amount_text": "2,879,786",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 1919571,
+          "amount_text": "1,919,571",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "24.운반비",
+          "code": "110",
+          "amount": 128670,
+          "amount_text": "128,670",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 557317,
+          "amount_text": "557,317",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 3245878,
+          "amount_text": "3,245,878",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 96410,
+          "amount_text": "96,410",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "31.교육훈련비",
+          "code": "117",
+          "amount": 929170,
+          "amount_text": "929,170",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 14833334,
+          "amount_text": "14,833,334",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 25086370,
+          "amount_text": "25,086,370",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 25086370,
+          "amount_text": "25,086,370",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "36.기타사회보험료",
+          "code": "124",
+          "amount": 69251250,
+          "amount_text": "69,251,250",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -887249656,
+          "amount_text": "-887,249,656",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 277423553,
+          "amount_text": "277,423,553",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 697055,
+          "amount_text": "697,055",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "18.전기오류수정이익",
+          "code": "160",
+          "amount": 25567050,
+          "amount_text": "25,567,050",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 250380850,
+          "amount_text": "250,380,850",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 778598,
+          "amount_text": "778,598",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 3952424,
+          "amount_text": "3,952,424",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 3952314,
+          "amount_text": "3,952,314",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 110,
+          "amount_text": "110",
+          "page": 3,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -613778527,
+          "amount_text": "-613,778,527",
+          "page": 3,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 46
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -613778527,
+          "amount_text": "-613,778,527",
+          "page": 3,
+          "row_index": 47
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 1609007859,
+          "cash_and_cash_equivalents": 1559642746,
+          "total_assets": 2266706150,
+          "current_liabilities": 140357286,
+          "noncurrent_liabilities": 240000000,
+          "total_liabilities": 380357286,
+          "capital_stock": 141317000,
+          "capital_surplus": 3047364000,
+          "retained_earnings": -1302332136,
+          "total_equity": 1886348864,
+          "total_liabilities_and_equity": 2266706150
+        },
+        "income_statement": {
+          "revenue": 418169575,
+          "cost_of_sales": 0,
+          "gross_profit": 418169575,
+          "selling_general_admin_expenses": 1305419231,
+          "operating_income": -887249656,
+          "non_operating_income": 277423553,
+          "non_operating_expenses": 3952424,
+          "pretax_income": -613778527,
+          "income_tax_expense": 0,
+          "net_income": -613778527
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 2266706150,
+          "expected": 2266706150,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 2266706150,
+          "expected": 2266706150,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 418169575,
+          "expected": 418169575,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -887249656,
+          "expected": -887249656,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -613778527,
+          "expected": -613778527,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2021,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202112.pdf",
+        "issue_number": "9962-098-0537-546",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2021.01.01",
+        "business_year_end": "2021.12.31",
+        "attachments": [
+          "표준재무상태표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2022.03.23",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509613416",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4223"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202112.txt",
+        "balance_sheet_row_count": 52,
+        "income_statement_row_count": 48
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 1938959213,
+          "amount_text": "1,938,959,213",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 1938447553,
+          "amount_text": "1,938,447,553",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 1385767672,
+          "amount_text": "1,385,767,672",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "2.단기예금",
+          "code": "004",
+          "amount": 499200000,
+          "amount_text": "499,200,000",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 23291677,
+          "amount_text": "23,291,677",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 23291677,
+          "amount_text": "23,291,677",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "6.미수금",
+          "code": "031",
+          "amount": 261110,
+          "amount_text": "261,110",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "다.기타미수금",
+          "code": "036",
+          "amount": 261110,
+          "amount_text": "261,110",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 29927094,
+          "amount_text": "29,927,094",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 511660,
+          "amount_text": "511,660",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 511660,
+          "amount_text": "511,660",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 511660,
+          "amount_text": "511,660",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 812459007,
+          "amount_text": "812,459,007",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 96810516,
+          "amount_text": "96,810,516",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 110000000,
+          "amount_text": "110,000,000",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 60443350,
+          "amount_text": "60,443,350",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 105016403,
+          "amount_text": "105,016,403",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 57762537,
+          "amount_text": "57,762,537",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 483528151,
+          "amount_text": "483,528,151",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 483528151,
+          "amount_text": "483,528,151",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 2751418220,
+          "amount_text": "2,751,418,220",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 146212053,
+          "amount_text": "146,212,053",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 84640394,
+          "amount_text": "84,640,394",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 84640394,
+          "amount_text": "84,640,394",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "4.선수금",
+          "code": "242",
+          "amount": 586810,
+          "amount_text": "586,810",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "다.기타선수금",
+          "code": "245",
+          "amount": 586810,
+          "amount_text": "586,810",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 43584969,
+          "amount_text": "43,584,969",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 23928169,
+          "amount_text": "23,928,169",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 19656800,
+          "amount_text": "19,656,800",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "정부출연금",
+          "code": "279",
+          "amount": 17399880,
+          "amount_text": "17,399,880",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "3.장기차입금",
+          "code": "289",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "다.기타장기차입금",
+          "code": "294",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 446212053,
+          "amount_text": "446,212,053",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 151047000,
+          "amount_text": "151,047,000",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 93000000,
+          "amount_text": "93,000,000",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 58047000,
+          "amount_text": "58,047,000",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 4289034000,
+          "amount_text": "4,289,034,000",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 4289034000,
+          "amount_text": "4,289,034,000",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 46
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 47
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -2134874833,
+          "amount_text": "-2,134,874,833",
+          "page": 2,
+          "row_index": 48
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -2134874833,
+          "amount_text": "-2,134,874,833",
+          "page": 2,
+          "row_index": 49
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 2305206167,
+          "amount_text": "2,305,206,167",
+          "page": 2,
+          "row_index": 50
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 2751418220,
+          "amount_text": "2,751,418,220",
+          "page": 2,
+          "row_index": 51
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 1098872087,
+          "amount_text": "1,098,872,087",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 1098872087,
+          "amount_text": "1,098,872,087",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출외",
+          "code": "025",
+          "amount": 1098872087,
+          "amount_text": "1,098,872,087",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 1098872087,
+          "amount_text": "1,098,872,087",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 1995691639,
+          "amount_text": "1,995,691,639",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 991897168,
+          "amount_text": "991,897,168",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 991897168,
+          "amount_text": "991,897,168",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 76505776,
+          "amount_text": "76,505,776",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 76505776,
+          "amount_text": "76,505,776",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 45375003,
+          "amount_text": "45,375,003",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 1842975,
+          "amount_text": "1,842,975",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 130115546,
+          "amount_text": "130,115,546",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 128995896,
+          "amount_text": "128,995,896",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1119650,
+          "amount_text": "1,119,650",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 91162559,
+          "amount_text": "91,162,559",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 117456570,
+          "amount_text": "117,456,570",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 117456570,
+          "amount_text": "117,456,570",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 3292340,
+          "amount_text": "3,292,340",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 34874609,
+          "amount_text": "34,874,609",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 2760000,
+          "amount_text": "2,760,000",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 291279102,
+          "amount_text": "291,279,102",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 52350108,
+          "amount_text": "52,350,108",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 238928994,
+          "amount_text": "238,928,994",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 28570937,
+          "amount_text": "28,570,937",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 2437971,
+          "amount_text": "2,437,971",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "24.운반비",
+          "code": "110",
+          "amount": 1753000,
+          "amount_text": "1,753,000",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 480910,
+          "amount_text": "480,910",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 5459845,
+          "amount_text": "5,459,845",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 1198445,
+          "amount_text": "1,198,445",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "31.교육훈련비",
+          "code": "117",
+          "amount": 2286909,
+          "amount_text": "2,286,909",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 29588434,
+          "amount_text": "29,588,434",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 50991000,
+          "amount_text": "50,991,000",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 50991000,
+          "amount_text": "50,991,000",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "36.기타사회보험료",
+          "code": "124",
+          "amount": 86362540,
+          "amount_text": "86,362,540",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -896819552,
+          "amount_text": "-896,819,552",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 99526082,
+          "amount_text": "99,526,082",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 3375932,
+          "amount_text": "3,375,932",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 71102660,
+          "amount_text": "71,102,660",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 25047490,
+          "amount_text": "25,047,490",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 35249227,
+          "amount_text": "35,249,227",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 6868562,
+          "amount_text": "6,868,562",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "13.유형자산처분손실",
+          "code": "200",
+          "amount": 28229983,
+          "amount_text": "28,229,983",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "라.기타유형자산처분손실",
+          "code": "204",
+          "amount": 28229983,
+          "amount_text": "28,229,983",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 150682,
+          "amount_text": "150,682",
+          "page": 3,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -832542697,
+          "amount_text": "-832,542,697",
+          "page": 3,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 46
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -832542697,
+          "amount_text": "-832,542,697",
+          "page": 3,
+          "row_index": 47
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 1938959213,
+          "cash_and_cash_equivalents": 1385767672,
+          "total_assets": 2751418220,
+          "current_liabilities": 146212053,
+          "noncurrent_liabilities": 300000000,
+          "total_liabilities": 446212053,
+          "capital_stock": 151047000,
+          "capital_surplus": 4289034000,
+          "retained_earnings": -2134874833,
+          "total_equity": 2305206167,
+          "total_liabilities_and_equity": 2751418220
+        },
+        "income_statement": {
+          "revenue": 1098872087,
+          "cost_of_sales": 0,
+          "gross_profit": 1098872087,
+          "selling_general_admin_expenses": 1995691639,
+          "operating_income": -896819552,
+          "non_operating_income": 99526082,
+          "non_operating_expenses": 35249227,
+          "pretax_income": -832542697,
+          "income_tax_expense": 0,
+          "net_income": -832542697
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 2751418220,
+          "expected": 2751418220,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 2751418220,
+          "expected": 2751418220,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 1098872087,
+          "expected": 1098872087,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -896819552,
+          "expected": -896819552,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -832542697,
+          "expected": -832542697,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2022,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202212.pdf",
+        "issue_number": "2817-820-6597-285",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2022.01.01",
+        "business_year_end": "2022.12.31",
+        "attachments": [
+          "표준재무상태표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2023.03.22",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509612842",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4222"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202212.txt",
+        "balance_sheet_row_count": 49,
+        "income_statement_row_count": 49
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 1247101041,
+          "amount_text": "1,247,101,041",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 1243461411,
+          "amount_text": "1,243,461,411",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 1176741545,
+          "amount_text": "1,176,741,545",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 23756505,
+          "amount_text": "23,756,505",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 23756505,
+          "amount_text": "23,756,505",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 42963361,
+          "amount_text": "42,963,361",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 3639630,
+          "amount_text": "3,639,630",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 3639630,
+          "amount_text": "3,639,630",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 3639630,
+          "amount_text": "3,639,630",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 747290806,
+          "amount_text": "747,290,806",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 79480967,
+          "amount_text": "79,480,967",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 110000000,
+          "amount_text": "110,000,000",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 67767259,
+          "amount_text": "67,767,259",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 121983891,
+          "amount_text": "121,983,891",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 84735665,
+          "amount_text": "84,735,665",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 435689499,
+          "amount_text": "435,689,499",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "2.산업재산권",
+          "code": "171",
+          "amount": 97083334,
+          "amount_text": "97,083,334",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "산업재산권",
+          "code": "176",
+          "amount": 97083334,
+          "amount_text": "97,083,334",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 338606165,
+          "amount_text": "338,606,165",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 1994391847,
+          "amount_text": "1,994,391,847",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 116619345,
+          "amount_text": "116,619,345",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 86978092,
+          "amount_text": "86,978,092",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 86978092,
+          "amount_text": "86,978,092",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 29641253,
+          "amount_text": "29,641,253",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 219293,
+          "amount_text": "219,293",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 29421960,
+          "amount_text": "29,421,960",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 362099039,
+          "amount_text": "362,099,039",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "3.장기차입금",
+          "code": "289",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "다.기타장기차입금",
+          "code": "294",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "7.퇴직급여충당부채",
+          "code": "309",
+          "amount": 62099039,
+          "amount_text": "62,099,039",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 478718384,
+          "amount_text": "478,718,384",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 151047000,
+          "amount_text": "151,047,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 93000000,
+          "amount_text": "93,000,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 58047000,
+          "amount_text": "58,047,000",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 4289034000,
+          "amount_text": "4,289,034,000",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 4289034000,
+          "amount_text": "4,289,034,000",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -2924407537,
+          "amount_text": "-2,924,407,537",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -2924407537,
+          "amount_text": "-2,924,407,537",
+          "page": 2,
+          "row_index": 46
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 1515673463,
+          "amount_text": "1,515,673,463",
+          "page": 2,
+          "row_index": 47
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 1994391847,
+          "amount_text": "1,994,391,847",
+          "page": 2,
+          "row_index": 48
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 1489066358,
+          "amount_text": "1,489,066,358",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 1489066358,
+          "amount_text": "1,489,066,358",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출외",
+          "code": "025",
+          "amount": 1489066358,
+          "amount_text": "1,489,066,358",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 1489066358,
+          "amount_text": "1,489,066,358",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 2492140357,
+          "amount_text": "2,492,140,357",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 1091906413,
+          "amount_text": "1,091,906,413",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 1091906413,
+          "amount_text": "1,091,906,413",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 125272512,
+          "amount_text": "125,272,512",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 125272512,
+          "amount_text": "125,272,512",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 37996825,
+          "amount_text": "37,996,825",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 18750630,
+          "amount_text": "18,750,630",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 149439423,
+          "amount_text": "149,439,423",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 148320000,
+          "amount_text": "148,320,000",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1119423,
+          "amount_text": "1,119,423",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 51432936,
+          "amount_text": "51,432,936",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 147838652,
+          "amount_text": "147,838,652",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 147838652,
+          "amount_text": "147,838,652",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 103000,
+          "amount_text": "103,000",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 42234213,
+          "amount_text": "42,234,213",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 2760000,
+          "amount_text": "2,760,000",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 647945515,
+          "amount_text": "647,945,515",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 189625147,
+          "amount_text": "189,625,147",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 458320368,
+          "amount_text": "458,320,368",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 11387394,
+          "amount_text": "11,387,394",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 2242788,
+          "amount_text": "2,242,788",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 529697,
+          "amount_text": "529,697",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 6197259,
+          "amount_text": "6,197,259",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 886754,
+          "amount_text": "886,754",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 50059086,
+          "amount_text": "50,059,086",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 14882190,
+          "amount_text": "14,882,190",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 14882190,
+          "amount_text": "14,882,190",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "36.기타사회보험료",
+          "code": "124",
+          "amount": 90275070,
+          "amount_text": "90,275,070",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -1003073999,
+          "amount_text": "-1,003,073,999",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 228704888,
+          "amount_text": "228,704,888",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 23946121,
+          "amount_text": "23,946,121",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "7.외환차익",
+          "code": "140",
+          "amount": 1659330,
+          "amount_text": "1,659,330",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "18.전기오류수정이익",
+          "code": "160",
+          "amount": 1349572,
+          "amount_text": "1,349,572",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 199890480,
+          "amount_text": "199,890,480",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 1859385,
+          "amount_text": "1,859,385",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 15163593,
+          "amount_text": "15,163,593",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 5406159,
+          "amount_text": "5,406,159",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "7.외환차손",
+          "code": "189",
+          "amount": 278902,
+          "amount_text": "278,902",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "13.유형자산처분손실",
+          "code": "200",
+          "amount": 9445623,
+          "amount_text": "9,445,623",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "라.기타유형자산처분손실",
+          "code": "204",
+          "amount": 9445623,
+          "amount_text": "9,445,623",
+          "page": 3,
+          "row_index": 44
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 32909,
+          "amount_text": "32,909",
+          "page": 3,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -789532704,
+          "amount_text": "-789,532,704",
+          "page": 3,
+          "row_index": 46
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 47
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -789532704,
+          "amount_text": "-789,532,704",
+          "page": 3,
+          "row_index": 48
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 1247101041,
+          "cash_and_cash_equivalents": 1176741545,
+          "total_assets": 1994391847,
+          "current_liabilities": 116619345,
+          "noncurrent_liabilities": 362099039,
+          "total_liabilities": 478718384,
+          "capital_stock": 151047000,
+          "capital_surplus": 4289034000,
+          "retained_earnings": -2924407537,
+          "total_equity": 1515673463,
+          "total_liabilities_and_equity": 1994391847
+        },
+        "income_statement": {
+          "revenue": 1489066358,
+          "cost_of_sales": 0,
+          "gross_profit": 1489066358,
+          "selling_general_admin_expenses": 2492140357,
+          "operating_income": -1003073999,
+          "non_operating_income": 228704888,
+          "non_operating_expenses": 15163593,
+          "pretax_income": -789532704,
+          "income_tax_expense": 0,
+          "net_income": -789532704
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 1994391847,
+          "expected": 1994391847,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 1994391847,
+          "expected": 1994391847,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 1489066358,
+          "expected": 1489066358,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -1003073999,
+          "expected": -1003073999,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -789532704,
+          "expected": -789532704,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2023,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202312.pdf",
+        "issue_number": "9667-455-1486-417",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2023.01.01",
+        "business_year_end": "2023.12.31",
+        "attachments": [
+          "표준재무상태표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2024.03.28",
+        "certificate_date_text": "2025년4월 18일",
+        "receipt_number": "504509612229",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4223"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202312.txt",
+        "balance_sheet_row_count": 56,
+        "income_statement_row_count": 46
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 695329486,
+          "amount_text": "695,329,486",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 694410566,
+          "amount_text": "694,410,566",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 450383749,
+          "amount_text": "450,383,749",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "2.단기예금",
+          "code": "004",
+          "amount": 200000000,
+          "amount_text": "200,000,000",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 15807604,
+          "amount_text": "15,807,604",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 15807604,
+          "amount_text": "15,807,604",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 28219213,
+          "amount_text": "28,219,213",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 918920,
+          "amount_text": "918,920",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 918920,
+          "amount_text": "918,920",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 918920,
+          "amount_text": "918,920",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 571963177,
+          "amount_text": "571,963,177",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 54074324,
+          "amount_text": "54,074,324",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 110000000,
+          "amount_text": "110,000,000",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 86814225,
+          "amount_text": "86,814,225",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 124978838,
+          "amount_text": "124,978,838",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 94090289,
+          "amount_text": "94,090,289",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 285768513,
+          "amount_text": "285,768,513",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "2.산업재산권",
+          "code": "171",
+          "amount": 92083334,
+          "amount_text": "92,083,334",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "산업재산권",
+          "code": "176",
+          "amount": 92083334,
+          "amount_text": "92,083,334",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 193685179,
+          "amount_text": "193,685,179",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 150000000,
+          "amount_text": "150,000,000",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 1267292663,
+          "amount_text": "1,267,292,663",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 505067480,
+          "amount_text": "505,067,480",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "2.단기차입금",
+          "code": "234",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "다.기타단기차입금",
+          "code": "237",
+          "amount": 300000000,
+          "amount_text": "300,000,000",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 65917575,
+          "amount_text": "65,917,575",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 65917575,
+          "amount_text": "65,917,575",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "4.선수금",
+          "code": "242",
+          "amount": 32218,
+          "amount_text": "32,218",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "다.기타선수금",
+          "code": "245",
+          "amount": 32218,
+          "amount_text": "32,218",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 39157687,
+          "amount_text": "39,157,687",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 16447667,
+          "amount_text": "16,447,667",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 22710020,
+          "amount_text": "22,710,020",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "8.유동성장기부채",
+          "code": "253",
+          "amount": 99960000,
+          "amount_text": "99,960,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "가.유동성장기차입금",
+          "code": "254",
+          "amount": 99960000,
+          "amount_text": "99,960,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 213887928,
+          "amount_text": "213,887,928",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "3.장기차입금",
+          "code": "289",
+          "amount": 124950000,
+          "amount_text": "124,950,000",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "다.기타장기차입금",
+          "code": "294",
+          "amount": 124950000,
+          "amount_text": "124,950,000",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "7.퇴직급여충당부채",
+          "code": "309",
+          "amount": 88937928,
+          "amount_text": "88,937,928",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 718955408,
+          "amount_text": "718,955,408",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 152922000,
+          "amount_text": "152,922,000",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 94875000,
+          "amount_text": "94,875,000",
+          "page": 2,
+          "row_index": 46
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 58047000,
+          "amount_text": "58,047,000",
+          "page": 2,
+          "row_index": 47
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 48
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 49
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 50
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 51
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -3929243745,
+          "amount_text": "-3,929,243,745",
+          "page": 2,
+          "row_index": 52
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -3929243745,
+          "amount_text": "-3,929,243,745",
+          "page": 2,
+          "row_index": 53
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 548337255,
+          "amount_text": "548,337,255",
+          "page": 2,
+          "row_index": 54
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 1267292663,
+          "amount_text": "1,267,292,663",
+          "page": 2,
+          "row_index": 55
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 1494496068,
+          "amount_text": "1,494,496,068",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 1494496068,
+          "amount_text": "1,494,496,068",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출외",
+          "code": "025",
+          "amount": 1494496068,
+          "amount_text": "1,494,496,068",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 1494496068,
+          "amount_text": "1,494,496,068",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 2524473119,
+          "amount_text": "2,524,473,119",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 789299941,
+          "amount_text": "789,299,941",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 789299941,
+          "amount_text": "789,299,941",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 76072164,
+          "amount_text": "76,072,164",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 76072164,
+          "amount_text": "76,072,164",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "3.보험료",
+          "code": "078",
+          "amount": 15340,
+          "amount_text": "15,340",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 34231844,
+          "amount_text": "34,231,844",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 28349153,
+          "amount_text": "28,349,153",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 152459846,
+          "amount_text": "152,459,846",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 151020000,
+          "amount_text": "151,020,000",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1439846,
+          "amount_text": "1,439,846",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 44187917,
+          "amount_text": "44,187,917",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 149920986,
+          "amount_text": "149,920,986",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 149920986,
+          "amount_text": "149,920,986",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 1135170,
+          "amount_text": "1,135,170",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 33998348,
+          "amount_text": "33,998,348",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 2760000,
+          "amount_text": "2,760,000",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 560173343,
+          "amount_text": "560,173,343",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 36183329,
+          "amount_text": "36,183,329",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 523990014,
+          "amount_text": "523,990,014",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 18109395,
+          "amount_text": "18,109,395",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 2013552,
+          "amount_text": "2,013,552",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 629389,
+          "amount_text": "629,389",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 7720448,
+          "amount_text": "7,720,448",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 257610,
+          "amount_text": "257,610",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 295172627,
+          "amount_text": "295,172,627",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 228811186,
+          "amount_text": "228,811,186",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 228811186,
+          "amount_text": "228,811,186",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "37.기타사회보험료",
+          "code": "125",
+          "amount": 99154860,
+          "amount_text": "99,154,860",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": -1029977051,
+          "amount_text": "-1,029,977,051",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 18938257,
+          "amount_text": "18,938,257",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 6040049,
+          "amount_text": "6,040,049",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "24.정부보조금",
+          "code": "170",
+          "amount": 10576743,
+          "amount_text": "10,576,743",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "28.기타잡이익",
+          "code": "174",
+          "amount": 2321465,
+          "amount_text": "2,321,465",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 9583741,
+          "amount_text": "9,583,741",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 8508228,
+          "amount_text": "8,508,228",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "7.외환차손",
+          "code": "189",
+          "amount": 92455,
+          "amount_text": "92,455",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 983058,
+          "amount_text": "983,058",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": -1020622535,
+          "amount_text": "-1,020,622,535",
+          "page": 3,
+          "row_index": 43
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": -1020622535,
+          "amount_text": "-1,020,622,535",
+          "page": 3,
+          "row_index": 45
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 695329486,
+          "cash_and_cash_equivalents": 450383749,
+          "total_assets": 1267292663,
+          "current_liabilities": 505067480,
+          "noncurrent_liabilities": 213887928,
+          "total_liabilities": 718955408,
+          "capital_stock": 152922000,
+          "capital_surplus": 4324659000,
+          "retained_earnings": -3929243745,
+          "total_equity": 548337255,
+          "total_liabilities_and_equity": 1267292663
+        },
+        "income_statement": {
+          "revenue": 1494496068,
+          "cost_of_sales": 0,
+          "gross_profit": 1494496068,
+          "selling_general_admin_expenses": 2524473119,
+          "operating_income": -1029977051,
+          "non_operating_income": 18938257,
+          "non_operating_expenses": 9583741,
+          "pretax_income": -1020622535,
+          "income_tax_expense": 0,
+          "net_income": -1020622535
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 1267292663,
+          "expected": 1267292663,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 1267292663,
+          "expected": 1267292663,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 1494496068,
+          "expected": 1494496068,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": -1029977051,
+          "expected": -1029977051,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": -1020622535,
+          "expected": -1020622535,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2024,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202412.pdf",
+        "issue_number": "3916-953-5475-264",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": "110111-*******",
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2024.01.01",
+        "business_year_end": "2024.12.31",
+        "attachments": [
+          "표준재무상태표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2025.03.25",
+        "certificate_date_text": "2025년4월 8일",
+        "receipt_number": "504491161910",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4225"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202412.txt",
+        "balance_sheet_row_count": 54,
+        "income_statement_row_count": 44
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 424818798,
+          "amount_text": "424,818,798",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 424555818,
+          "amount_text": "424,555,818",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 362314062,
+          "amount_text": "362,314,062",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 23145567,
+          "amount_text": "23,145,567",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 23145567,
+          "amount_text": "23,145,567",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 39096189,
+          "amount_text": "39,096,189",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 262980,
+          "amount_text": "262,980",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 262980,
+          "amount_text": "262,980",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 262980,
+          "amount_text": "262,980",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 507324897,
+          "amount_text": "507,324,897",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 216492519,
+          "amount_text": "216,492,519",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "4.장기대여금",
+          "code": "087",
+          "amount": 134372179,
+          "amount_text": "134,372,179",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "다.기타장기대여금",
+          "code": "094",
+          "amount": 134372179,
+          "amount_text": "134,372,179",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 29513736,
+          "amount_text": "29,513,736",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 110000000,
+          "amount_text": "110,000,000",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 97271009,
+          "amount_text": "97,271,009",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 124978838,
+          "amount_text": "124,978,838",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 108194093,
+          "amount_text": "108,194,093",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 156318642,
+          "amount_text": "156,318,642",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "2.산업재산권",
+          "code": "171",
+          "amount": 87083334,
+          "amount_text": "87,083,334",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "산업재산권",
+          "code": "176",
+          "amount": 87083334,
+          "amount_text": "87,083,334",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 69235308,
+          "amount_text": "69,235,308",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 932143695,
+          "amount_text": "932,143,695",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 172046482,
+          "amount_text": "172,046,482",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 34002018,
+          "amount_text": "34,002,018",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 34002018,
+          "amount_text": "34,002,018",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "4.선수금",
+          "code": "242",
+          "amount": 25403,
+          "amount_text": "25,403",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "다.기타선수금",
+          "code": "245",
+          "amount": 25403,
+          "amount_text": "25,403",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 38059061,
+          "amount_text": "38,059,061",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 23702271,
+          "amount_text": "23,702,271",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 14356790,
+          "amount_text": "14,356,790",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "8.유동성장기부채",
+          "code": "253",
+          "amount": 99960000,
+          "amount_text": "99,960,000",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "가.유동성장기차입금",
+          "code": "254",
+          "amount": 99960000,
+          "amount_text": "99,960,000",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 24990000,
+          "amount_text": "24,990,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "3.장기차입금",
+          "code": "289",
+          "amount": 24990000,
+          "amount_text": "24,990,000",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "다.기타장기차입금",
+          "code": "294",
+          "amount": 24990000,
+          "amount_text": "24,990,000",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 197036482,
+          "amount_text": "197,036,482",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 152922000,
+          "amount_text": "152,922,000",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 94875000,
+          "amount_text": "94,875,000",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 58047000,
+          "amount_text": "58,047,000",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 46
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 47
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 48
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 49
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -3742473787,
+          "amount_text": "-3,742,473,787",
+          "page": 2,
+          "row_index": 50
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -3742473787,
+          "amount_text": "-3,742,473,787",
+          "page": 2,
+          "row_index": 51
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 735107213,
+          "amount_text": "735,107,213",
+          "page": 2,
+          "row_index": 52
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 932143695,
+          "amount_text": "932,143,695",
+          "page": 2,
+          "row_index": 53
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 1724621160,
+          "amount_text": "1,724,621,160",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 1724621160,
+          "amount_text": "1,724,621,160",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출",
+          "code": "025",
+          "amount": 1724621160,
+          "amount_text": "1,724,621,160",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 1724621160,
+          "amount_text": "1,724,621,160",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 1559229183,
+          "amount_text": "1,559,229,183",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 510717299,
+          "amount_text": "510,717,299",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 510717299,
+          "amount_text": "510,717,299",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 118796868,
+          "amount_text": "118,796,868",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 118796868,
+          "amount_text": "118,796,868",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 12910895,
+          "amount_text": "12,910,895",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 20361920,
+          "amount_text": "20,361,920",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 77249028,
+          "amount_text": "77,249,028",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 75960000,
+          "amount_text": "75,960,000",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 1289028,
+          "amount_text": "1,289,028",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 24560588,
+          "amount_text": "24,560,588",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 129449871,
+          "amount_text": "129,449,871",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 129449871,
+          "amount_text": "129,449,871",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 259980,
+          "amount_text": "259,980",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "15.경상개발비",
+          "code": "095",
+          "amount": 1150000,
+          "amount_text": "1,150,000",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 485905971,
+          "amount_text": "485,905,971",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 29895813,
+          "amount_text": "29,895,813",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 456010158,
+          "amount_text": "456,010,158",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 9787056,
+          "amount_text": "9,787,056",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 1188310,
+          "amount_text": "1,188,310",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "26.건물․시설관리비(수선비제외)",
+          "code": "112",
+          "amount": 3000000,
+          "amount_text": "3,000,000",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 373595,
+          "amount_text": "373,595",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 5814797,
+          "amount_text": "5,814,797",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 364857,
+          "amount_text": "364,857",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 105447717,
+          "amount_text": "105,447,717",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 90024678,
+          "amount_text": "90,024,678",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 90024678,
+          "amount_text": "90,024,678",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "37.기타사회보험료외",
+          "code": "124",
+          "amount": -38134247,
+          "amount_text": "-38,134,247",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": 165391977,
+          "amount_text": "165,391,977",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 33343183,
+          "amount_text": "33,343,183",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 1745871,
+          "amount_text": "1,745,871",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "19.자산수증이익",
+          "code": "161",
+          "amount": 17515000,
+          "amount_text": "17,515,000",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "28.기타지원금외",
+          "code": "174",
+          "amount": 14082312,
+          "amount_text": "14,082,312",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 11965202,
+          "amount_text": "11,965,202",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 11905932,
+          "amount_text": "11,905,932",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 59270,
+          "amount_text": "59,270",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": 186769958,
+          "amount_text": "186,769,958",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": 186769958,
+          "amount_text": "186,769,958",
+          "page": 3,
+          "row_index": 43
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 424818798,
+          "cash_and_cash_equivalents": 362314062,
+          "total_assets": 932143695,
+          "current_liabilities": 172046482,
+          "noncurrent_liabilities": 24990000,
+          "total_liabilities": 197036482,
+          "capital_stock": 152922000,
+          "capital_surplus": 4324659000,
+          "retained_earnings": -3742473787,
+          "total_equity": 735107213,
+          "total_liabilities_and_equity": 932143695
+        },
+        "income_statement": {
+          "revenue": 1724621160,
+          "cost_of_sales": 0,
+          "gross_profit": 1724621160,
+          "selling_general_admin_expenses": 1559229183,
+          "operating_income": 165391977,
+          "non_operating_income": 33343183,
+          "non_operating_expenses": 11965202,
+          "pretax_income": 186769958,
+          "income_tax_expense": 0,
+          "net_income": 186769958
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 932143695,
+          "expected": 932143695,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 932143695,
+          "expected": 932143695,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 1724621160,
+          "expected": 1724621160,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": 165391977,
+          "expected": 165391977,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": 186769958,
+          "expected": 186769958,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "fiscal_year": 2025,
+      "metadata": {
+        "source_filename": "페이지콜 표준재무제표 202512.pdf",
+        "issue_number": "0953-949-8578-232",
+        "company_name": "주식회사페이지콜",
+        "business_registration_number": "691-81-00197",
+        "representative": "박주렁",
+        "corporate_registration_number_masked": null,
+        "business_type": "서비스",
+        "business_item": "소프트웨어개발및판매",
+        "business_address": "서울특별시관악구남부순환로1690, 4층(봉천동, 디에스타워)",
+        "business_year_start": "2025.01.01",
+        "business_year_end": "2025.12.31",
+        "attachments": [
+          "표준재무상태표",
+          "표준손익계산서"
+        ],
+        "filing_type": "정기 신고",
+        "filing_date": "2026.03.24",
+        "certificate_date_text": "2026년4월 9일",
+        "receipt_number": "505173212177",
+        "tax_office": "관악세무세무서",
+        "department": "민원봉사실",
+        "contact": "02-2173-4225"
+      },
+      "extraction": {
+        "method": "pymupdf_embedded_text",
+        "page_count": 3,
+        "raw_text_path": "data/extracted/financial-statements/raw-text/페이지콜 표준재무제표 202512.txt",
+        "balance_sheet_row_count": 50,
+        "income_statement_row_count": 44
+      },
+      "balance_sheet": [
+        {
+          "account_name": "Ⅰ.유동자산",
+          "code": "001",
+          "amount": 973341943,
+          "amount_text": "973,341,943",
+          "page": 2,
+          "row_index": 0
+        },
+        {
+          "account_name": "(1)당좌자산",
+          "code": "002",
+          "amount": 973277883,
+          "amount_text": "973,277,883",
+          "page": 2,
+          "row_index": 1
+        },
+        {
+          "account_name": "1.현금및현금성자산",
+          "code": "003",
+          "amount": 467607679,
+          "amount_text": "467,607,679",
+          "page": 2,
+          "row_index": 2
+        },
+        {
+          "account_name": "2.단기예금",
+          "code": "004",
+          "amount": 450000000,
+          "amount_text": "450,000,000",
+          "page": 2,
+          "row_index": 3
+        },
+        {
+          "account_name": "4.매출채권(공사․분양수입외)",
+          "code": "009",
+          "amount": 15593347,
+          "amount_text": "15,593,347",
+          "page": 2,
+          "row_index": 4
+        },
+        {
+          "account_name": "가.외상매출금",
+          "code": "010",
+          "amount": 15593347,
+          "amount_text": "15,593,347",
+          "page": 2,
+          "row_index": 5
+        },
+        {
+          "account_name": "7.선급금",
+          "code": "038",
+          "amount": 40076857,
+          "amount_text": "40,076,857",
+          "page": 2,
+          "row_index": 6
+        },
+        {
+          "account_name": "(2)재고자산",
+          "code": "044",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 7
+        },
+        {
+          "account_name": "(3)기타유동자산",
+          "code": "067",
+          "amount": 64060,
+          "amount_text": "64,060",
+          "page": 2,
+          "row_index": 8
+        },
+        {
+          "account_name": "4.기타유동자산",
+          "code": "071",
+          "amount": 64060,
+          "amount_text": "64,060",
+          "page": 2,
+          "row_index": 9
+        },
+        {
+          "account_name": "가.선급법인세",
+          "code": "072",
+          "amount": 64060,
+          "amount_text": "64,060",
+          "page": 2,
+          "row_index": 10
+        },
+        {
+          "account_name": "Ⅱ.비유동자산",
+          "code": "080",
+          "amount": 315826762,
+          "amount_text": "315,826,762",
+          "page": 2,
+          "row_index": 11
+        },
+        {
+          "account_name": "(1)투자자산",
+          "code": "081",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 12
+        },
+        {
+          "account_name": "2.장기투자증권",
+          "code": "083",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 13
+        },
+        {
+          "account_name": "가.매도가능증권",
+          "code": "084",
+          "amount": 82120340,
+          "amount_text": "82,120,340",
+          "page": 2,
+          "row_index": 14
+        },
+        {
+          "account_name": "(2)유형자산",
+          "code": "110",
+          "amount": 19149671,
+          "amount_text": "19,149,671",
+          "page": 2,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.시설장치",
+          "code": "141",
+          "amount": 110000000,
+          "amount_text": "110,000,000",
+          "page": 2,
+          "row_index": 16
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "142",
+          "amount": 103011783,
+          "amount_text": "103,011,783",
+          "page": 2,
+          "row_index": 17
+        },
+        {
+          "account_name": "비품",
+          "code": "149",
+          "amount": 129587021,
+          "amount_text": "129,587,021",
+          "page": 2,
+          "row_index": 18
+        },
+        {
+          "account_name": "(감가상각누계액)",
+          "code": "150",
+          "amount": 117425567,
+          "amount_text": "117,425,567",
+          "page": 2,
+          "row_index": 19
+        },
+        {
+          "account_name": "(3)무형자산",
+          "code": "169",
+          "amount": 109556751,
+          "amount_text": "109,556,751",
+          "page": 2,
+          "row_index": 20
+        },
+        {
+          "account_name": "2.산업재산권",
+          "code": "171",
+          "amount": 82083334,
+          "amount_text": "82,083,334",
+          "page": 2,
+          "row_index": 21
+        },
+        {
+          "account_name": "산업재산권",
+          "code": "176",
+          "amount": 82083334,
+          "amount_text": "82,083,334",
+          "page": 2,
+          "row_index": 22
+        },
+        {
+          "account_name": "6.개발비",
+          "code": "184",
+          "amount": 27473417,
+          "amount_text": "27,473,417",
+          "page": 2,
+          "row_index": 23
+        },
+        {
+          "account_name": "(4)기타비유동자산",
+          "code": "194",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 24
+        },
+        {
+          "account_name": "4.보증금",
+          "code": "217",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 25
+        },
+        {
+          "account_name": "가.임차보증금",
+          "code": "218",
+          "amount": 105000000,
+          "amount_text": "105,000,000",
+          "page": 2,
+          "row_index": 26
+        },
+        {
+          "account_name": "자산총계(Ⅰ+Ⅱ)",
+          "code": "228",
+          "amount": 1289168705,
+          "amount_text": "1,289,168,705",
+          "page": 2,
+          "row_index": 27
+        },
+        {
+          "account_name": "Ⅰ.유동부채",
+          "code": "229",
+          "amount": 194769207,
+          "amount_text": "194,769,207",
+          "page": 2,
+          "row_index": 28
+        },
+        {
+          "account_name": "3.미지급금",
+          "code": "238",
+          "amount": 31263402,
+          "amount_text": "31,263,402",
+          "page": 2,
+          "row_index": 29
+        },
+        {
+          "account_name": "다.기타미지급금",
+          "code": "241",
+          "amount": 31263402,
+          "amount_text": "31,263,402",
+          "page": 2,
+          "row_index": 30
+        },
+        {
+          "account_name": "5.예수금",
+          "code": "246",
+          "amount": 28642705,
+          "amount_text": "28,642,705",
+          "page": 2,
+          "row_index": 31
+        },
+        {
+          "account_name": "가.부가가치세예수금",
+          "code": "247",
+          "amount": 15694855,
+          "amount_text": "15,694,855",
+          "page": 2,
+          "row_index": 32
+        },
+        {
+          "account_name": "라.기타예수금",
+          "code": "250",
+          "amount": 12947850,
+          "amount_text": "12,947,850",
+          "page": 2,
+          "row_index": 33
+        },
+        {
+          "account_name": "7.선수수익",
+          "code": "252",
+          "amount": 109873100,
+          "amount_text": "109,873,100",
+          "page": 2,
+          "row_index": 34
+        },
+        {
+          "account_name": "8.유동성장기부채",
+          "code": "253",
+          "amount": 24990000,
+          "amount_text": "24,990,000",
+          "page": 2,
+          "row_index": 35
+        },
+        {
+          "account_name": "가.유동성장기차입금",
+          "code": "254",
+          "amount": 24990000,
+          "amount_text": "24,990,000",
+          "page": 2,
+          "row_index": 36
+        },
+        {
+          "account_name": "Ⅱ.비유동부채",
+          "code": "284",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 37
+        },
+        {
+          "account_name": "부채총계(Ⅰ+Ⅱ)",
+          "code": "333",
+          "amount": 194769207,
+          "amount_text": "194,769,207",
+          "page": 2,
+          "row_index": 38
+        },
+        {
+          "account_name": "Ⅲ.자본금",
+          "code": "334",
+          "amount": 152922000,
+          "amount_text": "152,922,000",
+          "page": 2,
+          "row_index": 39
+        },
+        {
+          "account_name": "1.보통주자본금",
+          "code": "335",
+          "amount": 94875000,
+          "amount_text": "94,875,000",
+          "page": 2,
+          "row_index": 40
+        },
+        {
+          "account_name": "2.우선주자본금",
+          "code": "336",
+          "amount": 58047000,
+          "amount_text": "58,047,000",
+          "page": 2,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅳ.자본잉여금",
+          "code": "337",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 42
+        },
+        {
+          "account_name": "1.주식발행초과금",
+          "code": "338",
+          "amount": 4324659000,
+          "amount_text": "4,324,659,000",
+          "page": 2,
+          "row_index": 43
+        },
+        {
+          "account_name": "Ⅴ.자본조정",
+          "code": "348",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 44
+        },
+        {
+          "account_name": "Ⅵ.기타포괄손익누계액",
+          "code": "361",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 2,
+          "row_index": 45
+        },
+        {
+          "account_name": "Ⅶ.이익잉여금",
+          "code": "372",
+          "amount": -3383181502,
+          "amount_text": "-3,383,181,502",
+          "page": 2,
+          "row_index": 46
+        },
+        {
+          "account_name": "5.미처분이익잉여금(미처리결손금)",
+          "code": "381",
+          "amount": -3383181502,
+          "amount_text": "-3,383,181,502",
+          "page": 2,
+          "row_index": 47
+        },
+        {
+          "account_name": "자본총계(Ⅲ+～Ⅶ)",
+          "code": "382",
+          "amount": 1094399498,
+          "amount_text": "1,094,399,498",
+          "page": 2,
+          "row_index": 48
+        },
+        {
+          "account_name": "부채와자본총계",
+          "code": "383",
+          "amount": 1289168705,
+          "amount_text": "1,289,168,705",
+          "page": 2,
+          "row_index": 49
+        }
+      ],
+      "income_statement": [
+        {
+          "account_name": "I.매출액",
+          "code": "001",
+          "amount": 1456185653,
+          "amount_text": "1,456,185,653",
+          "page": 3,
+          "row_index": 0
+        },
+        {
+          "account_name": "9.기타매출",
+          "code": "024",
+          "amount": 1456185653,
+          "amount_text": "1,456,185,653",
+          "page": 3,
+          "row_index": 1
+        },
+        {
+          "account_name": "가.페이지콜매출외",
+          "code": "025",
+          "amount": 1456185653,
+          "amount_text": "1,456,185,653",
+          "page": 3,
+          "row_index": 2
+        },
+        {
+          "account_name": "Ⅱ.매출원가",
+          "code": "035",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 3
+        },
+        {
+          "account_name": "Ⅲ.매출총손익",
+          "code": "066",
+          "amount": 1456185653,
+          "amount_text": "1,456,185,653",
+          "page": 3,
+          "row_index": 4
+        },
+        {
+          "account_name": "Ⅳ.판매비와관리비",
+          "code": "067",
+          "amount": 1099292821,
+          "amount_text": "1,099,292,821",
+          "page": 3,
+          "row_index": 5
+        },
+        {
+          "account_name": "1.급여",
+          "code": "068",
+          "amount": 344018028,
+          "amount_text": "344,018,028",
+          "page": 3,
+          "row_index": 6
+        },
+        {
+          "account_name": "나.직원급여",
+          "code": "070",
+          "amount": 344018028,
+          "amount_text": "344,018,028",
+          "page": 3,
+          "row_index": 7
+        },
+        {
+          "account_name": "2.퇴직급여",
+          "code": "074",
+          "amount": 41486095,
+          "amount_text": "41,486,095",
+          "page": 3,
+          "row_index": 8
+        },
+        {
+          "account_name": "나.직원퇴직급여",
+          "code": "076",
+          "amount": 41486095,
+          "amount_text": "41,486,095",
+          "page": 3,
+          "row_index": 9
+        },
+        {
+          "account_name": "4.복리후생비",
+          "code": "079",
+          "amount": 5786843,
+          "amount_text": "5,786,843",
+          "page": 3,
+          "row_index": 10
+        },
+        {
+          "account_name": "5.여비교통비",
+          "code": "080",
+          "amount": 1847650,
+          "amount_text": "1,847,650",
+          "page": 3,
+          "row_index": 11
+        },
+        {
+          "account_name": "6.임차료",
+          "code": "081",
+          "amount": 51517828,
+          "amount_text": "51,517,828",
+          "page": 3,
+          "row_index": 12
+        },
+        {
+          "account_name": "가.부동산임차료",
+          "code": "082",
+          "amount": 50640000,
+          "amount_text": "50,640,000",
+          "page": 3,
+          "row_index": 13
+        },
+        {
+          "account_name": "다.기타임차료(리스료포함)",
+          "code": "084",
+          "amount": 877828,
+          "amount_text": "877,828",
+          "page": 3,
+          "row_index": 14
+        },
+        {
+          "account_name": "8.유형자산감가상각비",
+          "code": "086",
+          "amount": 14972248,
+          "amount_text": "14,972,248",
+          "page": 3,
+          "row_index": 15
+        },
+        {
+          "account_name": "9.무형자산상각비",
+          "code": "087",
+          "amount": 46761891,
+          "amount_text": "46,761,891",
+          "page": 3,
+          "row_index": 16
+        },
+        {
+          "account_name": "나.기타무형자산상각비",
+          "code": "089",
+          "amount": 46761891,
+          "amount_text": "46,761,891",
+          "page": 3,
+          "row_index": 17
+        },
+        {
+          "account_name": "10.세금과공과",
+          "code": "090",
+          "amount": 198680,
+          "amount_text": "198,680",
+          "page": 3,
+          "row_index": 18
+        },
+        {
+          "account_name": "11.광고선전비(판매촉진비포함)",
+          "code": "091",
+          "amount": 53042957,
+          "amount_text": "53,042,957",
+          "page": 3,
+          "row_index": 19
+        },
+        {
+          "account_name": "20.지급수수료",
+          "code": "104",
+          "amount": 415746027,
+          "amount_text": "415,746,027",
+          "page": 3,
+          "row_index": 20
+        },
+        {
+          "account_name": "가.국내지급수수료",
+          "code": "105",
+          "amount": 27262985,
+          "amount_text": "27,262,985",
+          "page": 3,
+          "row_index": 21
+        },
+        {
+          "account_name": "나.해외지급수수료",
+          "code": "106",
+          "amount": 388483042,
+          "amount_text": "388,483,042",
+          "page": 3,
+          "row_index": 22
+        },
+        {
+          "account_name": "22.소모품비",
+          "code": "108",
+          "amount": 8416418,
+          "amount_text": "8,416,418",
+          "page": 3,
+          "row_index": 23
+        },
+        {
+          "account_name": "23.통신비",
+          "code": "109",
+          "amount": 841757,
+          "amount_text": "841,757",
+          "page": 3,
+          "row_index": 24
+        },
+        {
+          "account_name": "26.건물․시설관리비(수선비제외)",
+          "code": "112",
+          "amount": 2400000,
+          "amount_text": "2,400,000",
+          "page": 3,
+          "row_index": 25
+        },
+        {
+          "account_name": "28.수도광열비(전기료제외)",
+          "code": "114",
+          "amount": 178563,
+          "amount_text": "178,563",
+          "page": 3,
+          "row_index": 26
+        },
+        {
+          "account_name": "29.전기료",
+          "code": "115",
+          "amount": 3551743,
+          "amount_text": "3,551,743",
+          "page": 3,
+          "row_index": 27
+        },
+        {
+          "account_name": "30.인쇄비",
+          "code": "116",
+          "amount": 170550,
+          "amount_text": "170,550",
+          "page": 3,
+          "row_index": 28
+        },
+        {
+          "account_name": "34.해외시장개척비",
+          "code": "120",
+          "amount": 2901413,
+          "amount_text": "2,901,413",
+          "page": 3,
+          "row_index": 29
+        },
+        {
+          "account_name": "35.외주용역비",
+          "code": "121",
+          "amount": 76260000,
+          "amount_text": "76,260,000",
+          "page": 3,
+          "row_index": 30
+        },
+        {
+          "account_name": "가.국내외주용역비",
+          "code": "122",
+          "amount": 76260000,
+          "amount_text": "76,260,000",
+          "page": 3,
+          "row_index": 31
+        },
+        {
+          "account_name": "37.기타사회보험료외",
+          "code": "124",
+          "amount": 29194130,
+          "amount_text": "29,194,130",
+          "page": 3,
+          "row_index": 32
+        },
+        {
+          "account_name": "Ⅴ.영업손익",
+          "code": "129",
+          "amount": 356892832,
+          "amount_text": "356,892,832",
+          "page": 3,
+          "row_index": 33
+        },
+        {
+          "account_name": "Ⅵ.영업외수익",
+          "code": "130",
+          "amount": 4695995,
+          "amount_text": "4,695,995",
+          "page": 3,
+          "row_index": 34
+        },
+        {
+          "account_name": "1.이자수익",
+          "code": "131",
+          "amount": 469960,
+          "amount_text": "469,960",
+          "page": 3,
+          "row_index": 35
+        },
+        {
+          "account_name": "7.외환차익",
+          "code": "140",
+          "amount": 3550821,
+          "amount_text": "3,550,821",
+          "page": 3,
+          "row_index": 36
+        },
+        {
+          "account_name": "28.기타잡이익외",
+          "code": "174",
+          "amount": 675214,
+          "amount_text": "675,214",
+          "page": 3,
+          "row_index": 37
+        },
+        {
+          "account_name": "Ⅶ.영업외비용",
+          "code": "179",
+          "amount": 2296542,
+          "amount_text": "2,296,542",
+          "page": 3,
+          "row_index": 38
+        },
+        {
+          "account_name": "1.이자비용",
+          "code": "180",
+          "amount": 2146596,
+          "amount_text": "2,146,596",
+          "page": 3,
+          "row_index": 39
+        },
+        {
+          "account_name": "21.기타잡손실",
+          "code": "212",
+          "amount": 149946,
+          "amount_text": "149,946",
+          "page": 3,
+          "row_index": 40
+        },
+        {
+          "account_name": "Ⅷ.법인세비용차감전손익",
+          "code": "217",
+          "amount": 359292285,
+          "amount_text": "359,292,285",
+          "page": 3,
+          "row_index": 41
+        },
+        {
+          "account_name": "Ⅸ.법인세비용",
+          "code": "218",
+          "amount": 0,
+          "amount_text": "0",
+          "page": 3,
+          "row_index": 42
+        },
+        {
+          "account_name": "Ⅹ.당기순손익",
+          "code": "219",
+          "amount": 359292285,
+          "amount_text": "359,292,285",
+          "page": 3,
+          "row_index": 43
+        }
+      ],
+      "metrics": {
+        "balance_sheet": {
+          "current_assets": 973341943,
+          "cash_and_cash_equivalents": 467607679,
+          "total_assets": 1289168705,
+          "current_liabilities": 194769207,
+          "noncurrent_liabilities": 0,
+          "total_liabilities": 194769207,
+          "capital_stock": 152922000,
+          "capital_surplus": 4324659000,
+          "retained_earnings": -3383181502,
+          "total_equity": 1094399498,
+          "total_liabilities_and_equity": 1289168705
+        },
+        "income_statement": {
+          "revenue": 1456185653,
+          "cost_of_sales": 0,
+          "gross_profit": 1456185653,
+          "selling_general_admin_expenses": 1099292821,
+          "operating_income": 356892832,
+          "non_operating_income": 4695995,
+          "non_operating_expenses": 2296542,
+          "pretax_income": 359292285,
+          "income_tax_expense": 0,
+          "net_income": 359292285
+        }
+      },
+      "validation_checks": [
+        {
+          "name": "assets_equal_liabilities_plus_equity",
+          "actual": 1289168705,
+          "expected": 1289168705,
+          "passed": true
+        },
+        {
+          "name": "liabilities_and_equity_equal_assets",
+          "actual": 1289168705,
+          "expected": 1289168705,
+          "passed": true
+        },
+        {
+          "name": "gross_profit_equals_revenue_minus_cogs",
+          "actual": 1456185653,
+          "expected": 1456185653,
+          "passed": true
+        },
+        {
+          "name": "operating_income_equals_gross_profit_minus_sga",
+          "actual": 356892832,
+          "expected": 356892832,
+          "passed": true
+        },
+        {
+          "name": "net_income_equals_pretax_minus_tax",
+          "actual": 359292285,
+          "expected": 359292285,
+          "passed": true
+        }
+      ]
+    }
+  ]
+}
