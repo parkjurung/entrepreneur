@@ -68,6 +68,61 @@ As of 2026-06-15, based on user-provided figures:
 - User's expected threshold for stronger confidence: D7 retention around 20%.
 - Current assessment: above BEP, but not profitable enough after platform fees and VAT to justify shifting heavy company weight onto it yet.
 
+Note: daily payment revenue of KRW 220K divided by daily ad spend of KRW 160K implies gross ROAS around 137.5%. Treat the 150% figure as approximate unless reconciled against the actual dashboard.
+
+## Success Probability And Revenue Estimate
+
+As of 2026-06-15, a working estimate was made from the current metrics, team capacity, and public comparable game cases.
+
+### Facts Used
+
+- Current scale is small but real: DAU around 200 with daily payment revenue around KRW 220K.
+- Current annualized gross payment revenue is approximately KRW 80.3M at KRW 220K/day.
+- Current annualized ad spend is approximately KRW 58.4M at KRW 160K/day.
+- Current ARPDAU is approximately KRW 1,100, which is not weak for the current DAU scale.
+- Under a rough 30% platform fee and 10% VAT assumption, daily net revenue after store fee and VAT is approximately KRW 140K, below the KRW 160K daily ad spend.
+- Under a rough 15% platform fee and 10% VAT assumption, daily net revenue after store fee and VAT is approximately KRW 170K, slightly above the KRW 160K daily ad spend.
+- Therefore, current contribution after platform fee, VAT, and ad spend is roughly break-even before server, support, and team cost.
+
+### Public Comparables Used
+
+- GameAnalytics Q1 2024 benchmark summary: across all markets/projects, median D1 retention was reported around 22.91%, D7 around 4.2%, and D28 around 0.85%. Alcanthia's D7 10-15% is meaningfully above the broad mobile-game median, but genre/channel/cohort quality still matters.
+- Sensor Tower 2019 analysis: game revenue is extremely concentrated; the top 1% of revenue-earning game publishers captured around 95% of App Store / Google Play game revenue in Q3 2019. This supports treating breakout upside as real but low-probability.
+- Tiny Tower: a two-person pixel idle/simulation case that reportedly reached 825K DAU early, with estimated gross monthly revenue around USD 375K and post-Apple monthly revenue around USD 262K. This is a useful genre-adjacent upside example, but its DAU was thousands of times larger than Alcanthia's current scale.
+- BitLife / Candywriter: Stillfront disclosed Candywriter's 2019 revenue at approximately USD 26M with approximately 59% EBIT margin, 1.2M DAU, 7.8M MAU, and a transaction structure capped at USD 195M. This is a mobile simulation breakout case, not a base case.
+- Melvor Idle: a solo-developed idle RPG reached more than 600K downloads in Early Access across Steam, App Store, and Google Play before Jagex publishing support, and later more than 1M unique players. This supports the plausibility of niche idle/RPG success by a small team.
+- Rusty's Retirement: a solo-developed idle farming game reportedly sold around 330K Steam copies within months, with roughly USD 5 revenue per unit before Steam's 30% cut and around USD 1,800/day four months post-launch. This suggests that a PC/Steam niche path may be worth considering if mobile UA is the bottleneck.
+
+Reference URLs used in the 2026-06-15 estimate:
+
+- GameAnalytics benchmark summary: `https://gamedevreports.substack.com/p/gameanalytics-benchmarks-in-mobile`
+- Sensor Tower publisher concentration analysis: `https://sensortower.com/blog/top-one-percent-downloads`
+- Tiny Tower early revenue analysis: `https://www.gamesbrief.com/2011/07/ios-tiny-tower-on-track-to-make-3-million-in-its-first-year/`
+- Stillfront / Candywriter acquisition disclosure: `https://www.stillfront.com/en/stillfront-group-acquires-candywriter-llc-and-discloses-updated-pro-forma-figures-for-2019/`
+- Jagex / Melvor Idle publishing announcement: `https://www.jagex.com/news/jagex-announces-partnership-to-publish-melvor-idle`
+- Rusty's Retirement sales analysis: `https://newsletter.gamediscover.co/p/how-rustys-retirement-idle-farmed`
+
+### Scenario Model
+
+This is a strategic estimate, not a forecast:
+
+| Scenario | Estimated probability | Annual gross payment revenue | Annual contribution after variable costs |
+| --- | ---: | ---: | ---: |
+| Maintenance / small live game | 55-65% | KRW 60-120M | KRW -20M to +20M |
+| Niche sustainable game | 20-30% | KRW 200-600M | KRW 30-150M |
+| Main-bet candidate for the company | 8-15% | KRW 1-3B | KRW 300M-1B |
+| Breakout | 1-3% | KRW 5B+ | KRW 1.5B+ |
+
+Probability-weighted revenue can look attractive because of the breakout tail, but the decision-useful median case is much lower. For planning purposes, treat Alcanthia as a KRW 100-300M annual gross revenue candidate until retention and paid acquisition scalability are proven.
+
+### Strategic Interpretation
+
+- Alcanthia's current signal is better than a random mobile game because it already has paying users, positive gross ROAS signal, and D7 retention above broad mobile-game median benchmarks.
+- The current signal is not enough to justify making Alcanthia the company's dominant bet because net contribution is roughly break-even and scale is not proven.
+- The key question is not whether users can pay at DAU 200; it is whether the same payment density and retention survive at 3-5x paid acquisition spend.
+- If recent paid cohorts reach stable D7 retention around 18-22% and gross ROAS remains around 150-170% after scaling spend, the estimated probability of becoming a meaningful company bet can be raised from roughly 10% to roughly 20-30%.
+- If serious 3-month experiments leave D7 near 10-15%, Alcanthia should be treated as a small live asset and learning source, not the next primary company bet.
+
 ## 3-Month Strategic Validation Gate
 
 As of 2026-06-15, the working strategy is to treat Alcanthia as a serious candidate for the company's next main opportunity, but not yet as the company's dominant bet.
