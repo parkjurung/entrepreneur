@@ -37,3 +37,16 @@ Log important CEO decisions here.
 - Rationale: US access may become a major career and strategic option value for a frontier-oriented founder. However, the user's strongest near-term leverage is still current company execution, cash flow, AI tutor / realtime agent proof, and eventual exit or credibility accumulation. The right move is to convert those assets into US-legible evidence, relationships, and immigration options.
 - Next actions: Consult a US startup / AI immigration lawyer; evaluate O-1A, EB-1A, EB-2 NIW, E-2, and company/customer/investor foothold paths; create an evidence checklist; prepare English-facing Pagecall / AI tutor technical and business narrative; start US network conversations with founders, researchers, customers, investors, and immigration professionals.
 - Review date: 2026-09-15
+
+### 2026-06-15 - Adopt Korean-Rooted US Frontier Network Posture
+
+- Context: The user asked what it would mean, as a Korean, to become American or enter mainstream US elite networks in order to work near the frontier of AI, deeptech, and civilizational progress. The user feels both a strong ambition to leave a consequential mark on humanity and genuine pride in Korean identity and patriotism.
+- Options considered:
+  - Treat US citizenship or US network access as a rejection of Korea.
+  - Stay mostly inside Korean or Korean American networks for identity safety.
+  - Try to assimilate into US mainstream networks by downplaying Korean identity.
+  - Use Korean identity as a root while building the US anchors, sponsorship, and scarce contribution needed to enter broader frontier networks.
+- Decision: Adopt the fourth posture. The user should not hide Korean identity or be confined by it. Korean and Korean American networks are a base camp, not the summit. The strategic objective is to become important enough through company-building, technology, and US-legible proof that mainstream US frontier networks have a reason to engage.
+- Rationale: US technology and AI ecosystems have historically absorbed high-impact immigrant founders and researchers, but East Asian leaders can face real bamboo-ceiling dynamics in corporate hierarchies. Founder-level traction, scarce technical contribution, US institutional anchors, and non-Korean sponsors are better routes than relying on either ethnic solidarity alone or generic assimilation.
+- Next actions: Build US anchors through customers, advisors, investors, public English technical artifacts, and relevant institutions; use Korean/Korean American networks for bridge value and early trust; deliberately seek non-Korean sponsors who can validate the user's work in mainstream US contexts.
+- Review date: 2026-12-15

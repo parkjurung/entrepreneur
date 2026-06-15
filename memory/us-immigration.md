@@ -37,6 +37,56 @@ Why this fits:
 - It can be tied to US education, math learning, teacher productivity, AI safety in learning, and STEM competitiveness.
 - It gives a specific proposed endeavor for NIW-style analysis rather than a vague founder identity.
 
+## Ethnicity, Citizenship, And US Network Access
+
+As of 2026-06-15, the user's question is not only legal immigration strategy. It is also whether a Korea-born Korean founder can enter mainstream US elite networks and create meaningful impact without being confined to Korean American networks.
+
+### Core View
+
+The answer is: possible, but not by passive assimilation or generic networking.
+
+The strongest path is to become strategically necessary to US frontier networks through a scarce contribution: a company, technology, dataset, customer access, infrastructure insight, policy relevance, or deeptech bridge that important US actors cannot easily ignore.
+
+Korean identity should be treated as a root and source of differentiated assets, not as a ceiling. Korean American networks can be a base camp, but they are too small to be the final arena for frontier AI, deeptech, energy, or national-security-adjacent technology.
+
+### Facts And External Signals
+
+- US technology and AI entrepreneurship has been heavily shaped by immigrants. Public analyses reviewed on 2026-06-15 included CSET's analysis that 66% of the 2019 Forbes AI 50 companies had at least one immigrant founder, and NFAP's analysis that immigrants founded or cofounded more than half of US billion-dollar startups.
+- Asian Americans are visibly represented in technical work but face a documented leadership gap. HBR / Ascend analyses and related research describe Asian Americans, especially East Asians, as less likely to move from individual contributor or professional roles into management and executive roles.
+- Korean or Korea-born people have entered mainstream US institutions, but usually through unusually strong achievement, US institutional fluency, and durable sponsorship. Examples reviewed include:
+  - Yejin Choi: Seoul National University background, Stanford HAI professor, MacArthur Fellow, and TIME100 AI recognition.
+  - Jim Yong Kim: Korean-born physician and global health leader, Dartmouth president, and World Bank president.
+  - James Park: Fitbit cofounder and CEO, later acquired by Google.
+  - Tim Hwang: FiscalNote founder, with a company positioned in US policy, data, AI, and government-facing networks.
+
+### Assumptions
+
+- Frontier AI, deeptech, energy, and national-security-adjacent technology may increasingly depend on US-led trust networks, legal status, institutional affiliation, customers, capital, and policy alignment.
+- A Korea-born founder entering as an adult will likely face more friction than someone raised inside US education and social institutions.
+- East Asian / Korean founders may encounter stereotypes of being technically competent but not natural leaders. This makes narrative, executive presence, conflict fluency, and sponsorship more important.
+- Founder status can partly route around corporate promotion barriers because customers, investors, and strategic partners respond to traction and necessity.
+
+### Network Strategy
+
+Build three layers in parallel:
+
+1. Korean and Korean American networks: roots, trust, identity, Korea-US bridge, early introductions, and long-term cultural base.
+2. Asian American, immigrant founder, and technical networks: high-density founder/operator access in AI and Silicon Valley-style ecosystems.
+3. Mainstream US institutional networks: universities, research labs, top-tier investors, large customers, policy circles, national-interest technology networks, and deeptech operators.
+
+Do not become dependent on Korean-only networks. Use them as leverage into broader networks.
+
+### Practical Implications
+
+- Build US anchors: US customers, US advisors, US investors, US public writing, US conference presence, US entity or project structure where there is real business purpose, and possibly US legal status.
+- Develop non-Korean sponsors who can credibly introduce, defend, and explain the user's work inside US institutions.
+- Make English-facing proof legible: technical essays, demos, metrics, customer outcomes, and a clear founder narrative.
+- Position the user not as "a Korean founder asking to be included," but as "a Korean-rooted founder whose AI tutoring / realtime interactive agent expertise and Korea-US bridge create value for important US problems."
+
+### Strategic Identity Sentence
+
+> A Korea-formed founder entering the US AI/deeptech frontier, connecting Korean industrial and technical strengths with US frontier networks, without hiding Korean identity or being confined by it.
+
 ## Candidate Tracks
 
 ### O-1A

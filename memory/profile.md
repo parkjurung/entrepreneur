@@ -10,6 +10,14 @@ As of 2026-06-15, the user is also acting as an engineer and is spending most di
 
 Track long-term entrepreneurial career direction, constraints, strengths, weaknesses, and compounding advantages here.
 
+Identity / citizenship posture:
+
+- The user has a strong ambition to stand near the frontier of human progress, do great work, and leave a name.
+- The user is proud of Korea, Korean identity, and Korean patriotism, but does not want that identity to become a geographic or institutional cage.
+- Working identity frame: ethnic and formative roots are Korean; the activity arena may need to include the US frontier; ultimate loyalty is to civilizational progress and communities the user can genuinely take responsibility for.
+- Becoming American, if pursued, should be treated not as abandoning Korea but as expanding legal, civic, and institutional reach. It also requires taking US civic responsibility seriously rather than viewing citizenship only as a tool.
+- Avoid the false binary of "be Korean in Korea" versus "be American and leave Korea behind." A stronger path is to become globally consequential in a way that also raises the value of the Korean root.
+
 Deeptech aspiration:
 
 - The user wants the option to eventually work on larger civilizational problems, especially energy, AI, quantum technology, and the future of humanity.
