@@ -63,3 +63,28 @@ Log important CEO decisions here.
 - Rationale: Alcanthia connects the user's current asset base with a larger civilizational thesis: people may still want to produce, improve, accumulate, and cooperate even if real-world production work is reduced. This gives the user's anxiety a concrete inquiry path without prematurely declaring Alcanthia the company's dominant bet.
 - Next actions: Run the 90-minute focus block recorded in `memory/session-2026-06-16.md`; then answer which productive instinct a new Alcanthia player should taste in the first 10 minutes and define 2-3 experiments to move that feeling earlier.
 - Review date: 2026-06-23
+
+### 2026-06-16 - Treat Investable Thesis As The Current Bottleneck
+
+- Context: The user questioned whether the company was being too conservative by not raising more capital or increasing burn. The company is currently profitable and has a long runway. In a severe downside case where AI tutor revenue stops at the end of 2026, Alcanthia contribution goes to zero, and payroll is not cut, the user estimates roughly three years of zero-revenue runway. The user also clarified that spending more on Alcanthia ads would not necessarily accelerate D7 learning, AI tutor productization is contractually restricted by exclusivity, and freeing CEO time is not inherently useful without a target.
+- Options considered:
+  - Raise external capital to create leverage.
+  - Increase internal burn broadly.
+  - Keep cash defensive and continue current execution.
+  - Treat strategic thinking and investable thesis production as the current bottleneck.
+- Decision: Do not increase burn or pursue fundraising merely because cash exists. Treat the current bottleneck as the lack of a clear investable thesis where more capital or people predictably increases speed.
+- Rationale: The company is not cash-constrained, and the known active projects do not yet present a clean capital bottleneck. Increased burn without a clear acceleration mechanism would create noise rather than leverage. The aggressive move is to increase thinking rate: produce sharper claims, market segmentation, falsifiable hypotheses, and tests that can reveal where capital should later be deployed.
+- Next actions: Run hard CEO strategy interviews and written claim-making sessions. Convert intuition into hypotheses, contradiction checks, and concrete tests. For Alcanthia, focus first on activation and acquisition-message fit rather than simply increasing ad spend.
+- Review date: 2026-07-16
+
+### 2026-06-16 - Test Alcanthia As Cozy Automation / Production Economy
+
+- Context: The user identified strong personal game taste around Factorio, Satisfactory, Civilization, Paradox games, Minecraft, WoW, and EVE Online. The repeated attraction is not generic gaming but systems where manual effort becomes automated production, output compounds into strategic advantage, and player-created goods or strengths gain meaning in a world, market, or group. The user also observed that current Alcanthia ads lean cozy farming, while the actual system may be more complex.
+- Options considered:
+  - Continue positioning Alcanthia mainly as cozy farming.
+  - Reposition abruptly as a hardcore automation/factory game.
+  - Test a hybrid promise: cozy automation / witch factory / small production economy.
+- Decision: Treat "cozy automation / witch factory / small production economy" as the next positioning hypothesis to test, without abandoning the cozy fantasy skin.
+- Rationale: The current first 10 minutes reportedly feel like planting crops and following a tutorial, which may fail to show the core production-system pleasure. At the same time, cozy farming ads may attract users expecting a simpler experience and may under-signal the game to automation/economy players. A creative segmentation test can distinguish product activation problems from acquisition-message mismatch.
+- Next actions: Inventory current ad promises; create automation/production/economy creative variants; measure tutorial completion, first brew, first automation/offline reward, D1, D7, first payment/ad watch, and qualitative confusion; keep spend roughly at the current level until the better promise is visible.
+- Review date: 2026-07-16

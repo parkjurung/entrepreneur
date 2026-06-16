@@ -16,6 +16,7 @@ Track business-wide context here.
 - Current monthly Pagecall B2B SaaS revenue is approximately KRW 40M.
 - Current monthly costs, including payroll, server costs, and other expenses, are approximately KRW 50M.
 - Current average monthly surplus is approximately KRW 50M.
+- As of 2026-06-16, the user estimates that if AI tutor outsourced revenue stopped at the end of 2026 and Alcanthia contribution profit went to zero, the company could still operate for roughly three years with zero revenue and no payroll cuts before cash reached zero.
 - Local source inspection of `~/projects/ai-tutor-pm` on 2026-06-15 confirms that the Freewheelin / Mathflat AI tutor work is not just a demo wrapper: it contains a real multimodal agent stack, realtime voice/canvas orchestration, correction/eval harnesses, and product-transition planning for a customer-visible TutorFlat experience.
 - Standard financial statement certificates are stored in this repository under `data/source-documents/financial-statements/`.
 - Original financial statement source found locally at `~/Documents/Pagecall/표준재무제표 증명원/`.
@@ -52,6 +53,8 @@ Track business-wide context here.
 - Coding agents reduce the defensibility of software vendors because customers can internalize more software development than before.
 - Selling software in the agent era may become a winner-take-most game where companies with the most token budget and strongest distribution compound faster.
 - The company should avoid "we can build this software for you" as the main strategic claim. Durable software-mediated businesses need proprietary data, workflow ownership, measurable outcomes, trust, real-world control rights, difficult integration, or taste/worldbuilding/fun as the scarce asset.
+- Working 2026-06-16 AI-era thesis: AI may pull value out of objectively measurable, correct-answer software categories and into foundation-model / infrastructure providers. Many customers building internal B2B SaaS with AI can be interpreted as software margin moving from application vendors toward OpenAI, Anthropic, and cloud/model providers.
+- For a small challenger, the attractive arenas may be "subjective-answer" markets where quality is not fully reducible to objective metrics before the fact: fun, taste, worldbuilding, identity, trust, community, or emotional preference. Games are one candidate because retention and ROAS are measurable after launch, but the cause of fun remains creative and sensory.
 - Products born from the company's own repeated operational pain are strategically preferred because Pagecall can be its own first customer before external packaging.
 - Games may remain viable without being number one because, like music, demand is taste-driven and diverse.
 - A game can be a sustainable business if it deeply satisfies a specific user persona rather than dominating the entire market.
@@ -71,6 +74,15 @@ As of 2026-06-15:
   - It is current cash-flow work for Freewheelin / Mathflat.
   - It is also evidence that the company can turn Pagecall's realtime canvas/media infrastructure into AI-native tutoring behavior, which may be a stronger strategic asset than legacy B2B SaaS alone.
 - The customer-facing product direction recorded in `~/projects/ai-tutor-pm/docs/prd-ai-tutor-home.md` is "TutorFlat": a premium AI math tutor product that wraps the agent core in login, student dashboard, tutor room, and session summary experiences. Its strategic goal is to make the customer continue investing in AI tutor and to prove Pagecall is the uniquely capable team for this product.
+
+As of 2026-06-16:
+
+- The company is not capital-constrained in the normal startup sense. Runway is long and the company is currently generating surplus.
+- The immediate bottleneck is not fundraising, generic burn, or hiring. It is the absence of a sufficiently clear investable thesis where more capital or more people would predictably increase speed.
+- Alcanthia is not currently capital-constrained because existing monthly ad spend of roughly KRW 3M already produces enough inflow for meaningful retention learning, and D7 validation is gated by time rather than simply by spend.
+- AI tutor cannot be treated as Pagecall's direct productization target under the current customer contract because the user reports exclusivity restrictions that block using the AI tutor business or selling it to other companies.
+- CEO time relief is not automatically leverage unless there is a defined high-leverage target for the freed time.
+- The current "aggressive" move is therefore not to increase burn for its own sake, but to increase the rate of strategic thesis production: reading, interviewing, writing claims, segmenting markets, identifying non-obvious user desires, and finding a game board where money can later accelerate a validated bottleneck.
 
 ## Strategic Assets
 
@@ -100,6 +112,7 @@ Assets that are weaker or uncertain:
   - Monthly Pagecall B2B SaaS revenue: approx. KRW 40M as of 2026-06-15.
   - Monthly operating costs: approx. KRW 50M as of 2026-06-15.
   - Monthly surplus: approx. KRW 50M as of 2026-06-15.
+  - Downside zero-revenue runway: user-estimated roughly 36 months as of 2026-06-16, assuming no payroll cuts after AI tutor revenue stops and Alcanthia contribution goes to zero.
 - Review cadence:
 
 ## Team

@@ -48,6 +48,32 @@ The design docs describe the loop as: new crops -> higher farm income -> stronge
 - Men and women in their 20s to 40s who like pixel art, RPGs, and automation.
 - Adjacent store keywords and tags include witch, potion, brew, farm, pixel, idle, simulation, alchemy, plant, adventure, garden, craft, magic, RPG, cozy.
 
+## Founder-Market Fit And Game Taste
+
+As of the 2026-06-16 strategy interview, the user's game founder-market fit appears strongest in system-heavy games rather than action, romance simulation, or board-game-like design.
+
+Games the user has spent significant time on and understands deeply:
+
+- Factorio.
+- Satisfactory.
+- Civilization.
+- Paradox grand strategy games: HOI4, Victoria, Stellaris.
+- Minecraft.
+- World of Warcraft.
+- EVE Online.
+
+Taste pattern:
+
+- Automation / production systems: the pleasure of complex factories producing advanced goods automatically after the player struggled to make basic intermediates manually.
+- Spatial system-building: the pleasure of seeing a large designed system physically exist in the world.
+- Strategy compounding: the pleasure of role-playing a concept, making sharp early choices, and watching them compound into long-term strategic advantage.
+- Sandbox ownership: exploration and constructing a personally meaningful space.
+- Persistent-world economy and cooperation: becoming as strong as others, surpassing others, combining player strengths to clear difficult missions, and selling self-produced goods into a real market.
+
+Working founder-market-fit claim:
+
+> The team is most likely to build a strong game where player intent hardens into a system, the system acts on the player's behalf, and the output gains meaning through space, strategy, market, or cooperation.
+
 ## Retention Thesis
 
 Users return because:
@@ -65,6 +91,42 @@ As of 2026-06-15, the user's leading intuition is:
 - The core aha moment is too deep in the progression.
 - Players currently need to endure too much before they understand why the game becomes compelling.
 - Therefore, the most important product question is likely not "add more content" but "move the automation aha moment earlier without collapsing long-term progression."
+
+As of 2026-06-16, the thesis sharpened:
+
+- Alcanthia's first 10 minutes currently feel like planting crops and following a tutorial, not like watching a small production system come alive.
+- The strongest activation hypothesis is that new players should quickly feel: manual action -> small automation -> accumulated output -> conversion into brewing, adventure, sale, or upgrade.
+- If Alcanthia works, it may work less because of "cozy farming" and more because of a small Factorio/EVE-like production economy inside a cozy witch-fantasy wrapper.
+- The game should not be reduced to a pure factory game. The current differentiated promise is closer to "cozy automation / witch factory / small production economy."
+
+## Advertising And Positioning Hypotheses
+
+As of 2026-06-16:
+
+- Current ads are reported to lean toward cozy farming.
+- This may create an acquisition-message mismatch: users expecting a simple cozy farming game may find the underlying production/economy system too complex.
+- Conversely, players who would enjoy automation, production systems, and player economy may not be receiving a strong enough signal from the current ads.
+- The issue may not only be product activation. It may be a combined product-positioning problem: Alcanthia's skin says cozy farming, while the durable core may be automation/economy.
+
+Creative segmentation to test without materially increasing spend:
+
+- Baseline cozy farming creative.
+- Automation / production explosion creative.
+- Market / trade / player economy creative.
+- Adventure / RPG growth / equipment enhancement creative.
+
+Early signals before D7:
+
+- Tutorial completion.
+- First brew reached.
+- First automation or offline reward reached.
+- D1 retention.
+- First payment or ad watch.
+- Qualitative signs of "too complex" or "I don't know what to do."
+
+Important interpretation rule:
+
+- A more system-oriented creative may have higher CPI or lower click-through than cozy farming creative. It can still be better if retained users have higher D1/D7, payer conversion, or payment quality.
 
 ## Current Metrics
 
@@ -153,8 +215,9 @@ Guardrails:
 Recommended 3-month operating sequence:
 
 1. Month 1: clean up the funnel view from first farm, first brew, first adventure, first automation/offline reward, and first payment.
-2. Month 2: run 2-3 product experiments that move the automation aha moment earlier without collapsing long-term progression.
-3. Month 3: validate the best variant with paid acquisition cohorts and check whether retention and ROAS survive modest spend expansion.
+2. Month 1-2: segment creatives by promise, especially cozy farming versus automation/production/economy, to test whether retained users differ by acquisition expectation.
+3. Month 2: run 2-3 product experiments that move the automation aha moment earlier without collapsing long-term progression.
+4. Month 3: validate the best product/creative combination with paid acquisition cohorts and check whether retention and ROAS survive modest spend expansion.
 
 Post-validation decision rules:
 
@@ -197,5 +260,7 @@ If the 3-month effort fails:
 - What is the net contribution margin after platform fees, VAT, ad spend, server costs, and support load?
 - Which user persona is driving payment and retention: automation optimizer, cozy pixel RPG player, economy/trading player, or completionist?
 - What specific product changes can move the automation aha moment earlier and raise D7 retention from 10-15% toward 20%?
+- Are current cozy farming ads attracting users whose expectations conflict with Alcanthia's actual system complexity?
+- Which creative promise attracts the highest-quality users: cozy farming, automation/production, player economy, or RPG adventure/growth?
 - What scale ceiling is plausible at the current ROAS and creative/channel mix?
 - How much CEO time should move from AI tutor work to Alcanthia if retention improves?
