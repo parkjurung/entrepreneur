@@ -45,6 +45,17 @@ As of 2026-06-15:
 - Economic freedom is important but treated as a consequence of creating impact, not the primary goal.
 - Creative drive still matters because the user needs the process to remain interesting enough to sustain long-term effort.
 
+## Psychological Operating Notes
+
+As of 2026-06-16:
+
+- The user's entrepreneurial anxiety is not primarily resentment, jealousy, or anger. The dominant tones are urgency, fear, and a vague constricted feeling when the path forward is not visible.
+- The user's deeper fear is becoming unable to stand near the frontier of human progress or leave a causal trace on humanity's trajectory.
+- The user has internalized some "安分知足" / contentment posture through past psychological crises, but this should not be misread as a desire to abandon long-held grand ambition.
+- Money, exit outcomes, and social recognition are important partly because they create freedom, trust capital, and a platform for larger future work.
+- When anxiety rises, the highest-leverage intervention is often not immediate execution or generic reassurance. It is building a clearer map through focused study, claim-making, and turning the anxiety into one concrete strategic question.
+- Useful reframe: anxiety is not a signal to stop; it is a signal that the user's map is outdated.
+
 ## Capital And Ownership Preference
 
 - The user currently prefers bootstrapping.

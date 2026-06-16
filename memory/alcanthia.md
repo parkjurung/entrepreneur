@@ -19,6 +19,16 @@ Alcanthia / 알칸시아 is a mobile-first pixel-art simulation RPG and one cand
 - Tech stack: Phaser 3, TypeScript, Capacitor, Supabase, RevenueCat, Stripe.
 - Art direction: cozy pixel-art fantasy, witch garden, potion brewing, night forest / cauldron glow brand tone.
 
+## Long-Term Product Thesis
+
+As of 2026-06-16, the user's emerging philosophical thesis for Alcanthia is:
+
+- In a future where AI and automation reduce human production time, many people may not simply want passive leisure. They may still feel a biological and psychological need to produce, improve, accumulate, and cooperate.
+- Alcanthia can be framed as a "post-labor production play" game: a small fantasy economy where players satisfy productive instincts through farming, brewing, crafting, automation, adventure, and trade.
+- The game is not only meant to fill idle time. Its stronger promise is to give players a safe, playful substitute for the feeling of acting on a world, improving a system, and participating in a productive economy.
+- The four independent productive instincts to respect are accumulation, improvement/optimization, making/crafting, and exchange/cooperation.
+- This thesis should not replace near-term retention discipline. It should help clarify why the automation aha moment matters: automation is the moment when the player's small world begins to feel alive and productive beyond direct tapping.
+
 ## Core Loop
 
 The player:
